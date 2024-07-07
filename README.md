@@ -16,3 +16,6 @@ To start this project the first step was to define the hypothesized heat treatme
 These 3 heating strategies increase in complexity as well as resource demands but the benefits are materials that yield more stone tools, so a better understanding of the choice of heat treatment can help understand the development of stone tool industries and the cognitive leaps associated with them.
 
 
+## Model Development
+
+
